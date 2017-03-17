@@ -1,0 +1,139 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/simple"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/simple\/uid": [
+            {
+                "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/simple\/revision_uid": [
+            {
+                "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": "32"
+        }
+    ],
+    "uuid": [
+        {
+            "value": "8d0fe212-2f6c-4187-9de6-1d2d523a2122"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": "125"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "simple"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/simple\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "7dafc21f-c3e2-4a78-bc85-29a36227e6a1"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/simple\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "7dafc21f-c3e2-4a78-bc85-29a36227e6a1"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": "1",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "1489418556",
+            "lang": "en"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "11"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "field_parade_onepage_sections"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": "1",
+            "lang": "en"
+        }
+    ],
+    "field_anchor": [
+        {
+            "value": "#contact"
+        }
+    ],
+    "field_simple_layout": [
+        {
+            "value": "0"
+        }
+    ],
+    "field_text": [
+        {
+            "value": "<p>email: <a href=\"mailto:info@cocitizen.com\">info@cocitizen.com<\/a><\/p>\r\n\r\n<p>twitter: <a href=\"https:\/\/twitter.com\/cocitizentech\">@CoCitizenTech<\/a><\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Contact",
+            "lang": "en"
+        }
+    ]
+}

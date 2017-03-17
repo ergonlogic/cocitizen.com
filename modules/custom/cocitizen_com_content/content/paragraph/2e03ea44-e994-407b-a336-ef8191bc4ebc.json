@@ -1,0 +1,199 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/text_boxes"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/text_boxes\/uid": [
+            {
+                "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/text_boxes\/revision_uid": [
+            {
+                "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/text_boxes\/field_paragraphs": [
+            {
+                "href": ""
+            },
+            {
+                "href": ""
+            },
+            {
+                "href": ""
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": "30"
+        }
+    ],
+    "uuid": [
+        {
+            "value": "2e03ea44-e994-407b-a336-ef8191bc4ebc"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": "123"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "text_boxes"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/text_boxes\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "7dafc21f-c3e2-4a78-bc85-29a36227e6a1"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/text_boxes\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "7dafc21f-c3e2-4a78-bc85-29a36227e6a1"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/text_boxes\/field_paragraphs": [
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/text_box"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "61ddb5b9-84c0-49de-8e13-f1098dccdff5"
+                    }
+                ],
+                "target_revision_id": "105"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/text_box"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "4ce806b0-eaaf-4866-af4e-78c57d977afc"
+                    }
+                ],
+                "target_revision_id": "106"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/text_box"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "64df184e-e4f4-42c6-90fe-501cf64607be"
+                    }
+                ],
+                "target_revision_id": "107"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": "1",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "1489417564",
+            "lang": "en"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "11"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "field_parade_onepage_sections"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": "1",
+            "lang": "en"
+        }
+    ],
+    "field_anchor": [
+        {
+            "value": "#services"
+        }
+    ],
+    "field_boxes_per_row": [
+        {
+            "value": "3"
+        }
+    ],
+    "field_text_boxes_layout": [
+        {
+            "value": "5"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Services",
+            "lang": "en"
+        }
+    ]
+}

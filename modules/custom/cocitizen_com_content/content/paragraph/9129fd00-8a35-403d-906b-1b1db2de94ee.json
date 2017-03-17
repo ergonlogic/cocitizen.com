@@ -1,0 +1,171 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/header"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/header\/uid": [
+            {
+                "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/header\/revision_uid": [
+            {
+                "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/header\/field_background": [
+            {
+                "href": "http:\/\/cocitizen.com\/sites\/cocitizen.com\/files\/paragraphs\/background\/sunset_horizon_1.jpg",
+                "lang": "en"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": "25"
+        }
+    ],
+    "uuid": [
+        {
+            "value": "9129fd00-8a35-403d-906b-1b1db2de94ee"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": "122"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "header"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/header\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "7dafc21f-c3e2-4a78-bc85-29a36227e6a1"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/header\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "7dafc21f-c3e2-4a78-bc85-29a36227e6a1"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/header\/field_background": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/cocitizen.com\/sites\/cocitizen.com\/files\/paragraphs\/background\/sunset_horizon_1.jpg"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "cd4f794e-e91b-4748-8dba-860d2cbf6df6"
+                    }
+                ],
+                "lang": "en",
+                "display": "1",
+                "description": ""
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": "1",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "1489254922",
+            "lang": "en"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "11"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "field_parade_onepage_sections"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": "1",
+            "lang": "en"
+        }
+    ],
+    "field_anchor": [
+        {
+            "value": "#home"
+        }
+    ],
+    "field_enable_parallax": [
+        {
+            "value": "1"
+        }
+    ],
+    "field_lead_text": [
+        {
+            "value": "Make the world more fair.",
+            "lang": "en"
+        }
+    ],
+    "field_secondary_title": [
+        {
+            "value": "Something democratic this way comes...",
+            "lang": "en"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "CoCitizen",
+            "lang": "en"
+        }
+    ]
+}

@@ -1,0 +1,259 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/cocitizen.com\/node\/11?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/parade_onepage"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/parade_onepage\/uid": [
+            {
+                "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/parade_onepage\/revision_uid": [
+            {
+                "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/parade_onepage\/field_parade_onepage_sections": [
+            {
+                "href": ""
+            },
+            {
+                "href": ""
+            },
+            {
+                "href": ""
+            },
+            {
+                "href": ""
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": "11"
+        }
+    ],
+    "uuid": [
+        {
+            "value": "619247f8-fb43-40cf-aca0-c00de5786b04"
+        }
+    ],
+    "vid": [
+        {
+            "value": "39"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "parade_onepage"
+        }
+    ],
+    "title": [
+        {
+            "value": "CoCitizen",
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/parade_onepage\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "7dafc21f-c3e2-4a78-bc85-29a36227e6a1"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/parade_onepage\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "7dafc21f-c3e2-4a78-bc85-29a36227e6a1"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/parade_onepage\/field_parade_onepage_sections": [
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/header"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "9129fd00-8a35-403d-906b-1b1db2de94ee"
+                    }
+                ],
+                "target_revision_id": "122"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/text_boxes"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "2e03ea44-e994-407b-a336-ef8191bc4ebc"
+                    }
+                ],
+                "target_revision_id": "123"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/simple"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "10fbcd55-ff2b-4f82-a9bb-561085d3a272"
+                    }
+                ],
+                "target_revision_id": "124"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/simple"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8d0fe212-2f6c-4187-9de6-1d2d523a2122"
+                    }
+                ],
+                "target_revision_id": "125"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": "1",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "1489254260",
+            "lang": "en"
+        }
+    ],
+    "changed": [
+        {
+            "value": "1489420049",
+            "lang": "en"
+        }
+    ],
+    "promote": [
+        {
+            "value": "1",
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": "0",
+            "lang": "en"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "1489420049"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": "1",
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": "1",
+            "lang": "en"
+        }
+    ],
+    "field_parade_onepage_menu": [
+        {
+            "uri": "internal:#home",
+            "title": "Home",
+            "options": {
+                "attributes": {
+                    "data-selected": 0
+                }
+            },
+            "lang": "en"
+        },
+        {
+            "uri": "internal:#services",
+            "title": "Services",
+            "options": {
+                "attributes": {
+                    "data-selected": 0
+                }
+            },
+            "lang": "en"
+        },
+        {
+            "uri": "internal:#team",
+            "title": "Team",
+            "options": {
+                "attributes": {
+                    "data-selected": 0
+                }
+            },
+            "lang": "en"
+        },
+        {
+            "uri": "internal:#contact",
+            "title": "Contact",
+            "options": {
+                "attributes": {
+                    "data-selected": 0
+                }
+            },
+            "lang": "en"
+        }
+    ]
+}

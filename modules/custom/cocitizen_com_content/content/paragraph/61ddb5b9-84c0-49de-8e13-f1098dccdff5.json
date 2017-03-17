@@ -1,0 +1,157 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/text_box"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/text_box\/uid": [
+            {
+                "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/text_box\/revision_uid": [
+            {
+                "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/text_box\/field_image": [
+            {
+                "href": "http:\/\/cocitizen.com\/sites\/cocitizen.com\/files\/image\/box\/2017-03\/civicrm-logo-2016.png",
+                "lang": "en"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": "27"
+        }
+    ],
+    "uuid": [
+        {
+            "value": "61ddb5b9-84c0-49de-8e13-f1098dccdff5"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": "105"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "text_box"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/text_box\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "7dafc21f-c3e2-4a78-bc85-29a36227e6a1"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/text_box\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "7dafc21f-c3e2-4a78-bc85-29a36227e6a1"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/text_box\/field_image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/cocitizen.com\/sites\/cocitizen.com\/files\/image\/box\/2017-03\/civicrm-logo-2016.png"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "ff913ec9-daff-40f5-a8b3-027b9197cb81"
+                    }
+                ],
+                "lang": "en",
+                "alt": "CiviCRM",
+                "title": "",
+                "width": "270",
+                "height": "98"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": "1",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "1489417611",
+            "lang": "en"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "30"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "paragraph"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "field_paragraphs"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": "1",
+            "lang": "en"
+        }
+    ],
+    "field_text": [
+        {
+            "value": "<p>CiviCRM allows you to centralize constituent communications, build and manage your donor base and engage members and stakeholders online.<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "CiviCRM",
+            "lang": "en"
+        }
+    ]
+}

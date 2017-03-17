@@ -1,0 +1,139 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/simple"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/simple\/uid": [
+            {
+                "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/simple\/revision_uid": [
+            {
+                "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": "23"
+        }
+    ],
+    "uuid": [
+        {
+            "value": "10fbcd55-ff2b-4f82-a9bb-561085d3a272"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": "124"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "simple"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/simple\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "7dafc21f-c3e2-4a78-bc85-29a36227e6a1"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/simple\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/cocitizen.com\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "7dafc21f-c3e2-4a78-bc85-29a36227e6a1"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": "1",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "1489254453",
+            "lang": "en"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "11"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "field_parade_onepage_sections"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": "1",
+            "lang": "en"
+        }
+    ],
+    "field_anchor": [
+        {
+            "value": "#team"
+        }
+    ],
+    "field_simple_layout": [
+        {
+            "value": "3"
+        }
+    ],
+    "field_text": [
+        {
+            "value": "<h2>Chris Doten, CEO<\/h2>\r\n\r\n<p><img alt=\"Chris Doten, CEO\" data-align=\"left\" data-entity-type=\"file\" data-entity-uuid=\"69d1b92c-185f-4866-bd8b-716e8afe4605\" height=\"102\" src=\"\/sites\/cocitizen.com\/files\/inline-images\/cdoten.jpg\" width=\"102\" \/>Chris is a global technology, political organizing, digital security and foreign policy expert melding academic and on-the-ground experience with China, Central Asia, American campaign politics, web application development, and computer network security.<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<h2>Christine Schoellhorn, COO<\/h2>\r\n\r\n<h2><img alt=\"Christine Schoellhorn, COO\" data-align=\"left\" data-entity-type=\"file\" data-entity-uuid=\"162dc65a-0bbf-4a6d-8e65-d5d1836b3636\" height=\"99\" src=\"\/sites\/cocitizen.com\/files\/inline-images\/cshoellhorn.jpg\" width=\"99\" \/>Christine works in the development\u200b and prototyping\u200b of tool\u200bs\u200b\u200b \u200band \u200bapproaches that empower\u200b and scale democracy programing. Christine has a dual background in civic engagement and tech\u200bnology, and has worked internationally and domestically on sustainable resource policy and\u200b in pro\u200bduct\u200b \u200bmanagement and \u200b\u200bsupport\u200b for S\u200baaS\u200b startups.<\/h2>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<h2>Christopher Gervais, CTO<\/h2>\r\n\r\n<h2><img alt=\"Christopher Gervais, CTO\" data-align=\"left\" data-entity-type=\"file\" data-entity-uuid=\"f77d9e62-3c31-4404-9918-eb98ed3245b8\" height=\"96\" src=\"\/sites\/cocitizen.com\/files\/inline-images\/cgervais.png\" width=\"96\" \/>Christopher is a long-time contributor and advocate of Free Software, and leads the Aegir Project, a coalition of developers and systems administrators whose primary goal is&nbsp;sharing best practices for securely and reliably hosting web applications.<\/h2>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Team",
+            "lang": "en"
+        }
+    ]
+}

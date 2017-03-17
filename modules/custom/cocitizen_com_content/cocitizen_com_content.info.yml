@@ -1,0 +1,6 @@
+name: 'CoCitizen.com content'
+description: 'Static one-page content for http://cocitizen.com'
+type: module
+core: 8.x
+dependencies:
+  - parade_demo
